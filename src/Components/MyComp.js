@@ -1,6 +1,4 @@
 import React from "react";
-import './Style.css';
-
 function MyComp() {
 
 return <>
@@ -88,7 +86,7 @@ return <>
                 <div className="main-content">
                     <h1 className="recent-post-title">Recent Posts</h1>
                     <div className="post clearfix">
-                        <img src="./Images/Nitish-Rajput-2.png" alt="" className="post-image" />
+                        <img src="./Images/img1.jpg" alt="" className="post-image" />
                         <div className="post-preview">
                             <h2><a href="single.html">Embrace the technology rather than banning it
                             </a></h2>
